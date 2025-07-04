@@ -35,8 +35,7 @@
 ;;;       v1.0 | 04‑jul‑2025
 ;;;
 ;;;  ► AUTORES
-;;;       Franklin Rodríguez  –  Idea y pruebas de campo
-;;;       ChatGPT (OpenAI)    –  Implementación y documentación
+;;;       Franklin Rodríguez  –  https://www.linkedin.com/in/franklinrodriguezacosta/
 ;;; -----------------------------------------------------------------------------
 
 (defun _ro:split-text (txt / pfx num sfx ch)
