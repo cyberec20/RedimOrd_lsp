@@ -38,6 +38,10 @@
 ;;;       Franklin Rodríguez  –  https://www.linkedin.com/in/franklinrodriguezacosta/
 ;;; -----------------------------------------------------------------------------
 
+(princ "\nComando disponible: RedimOrd")
+(princ "\nUso: Escriba RedimOrd en la línea de comandos")
+(princ)
+
 (defun _ro:split-text (txt / pfx num sfx ch)
   "Divide una cadena en prefijo, número y sufijo.
   Ej:  "E: 456.78mm"  ->  ("E:" "456.78" "mm")"
