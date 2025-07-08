@@ -80,7 +80,7 @@ Imagine you pasted a block into a new drawing and the ordinate labels kept their
 
 ## 📜 License
 
-Released under the **MIT License** – see [`LICENSE`](LICENSE) for details.
+Released under the **GNU 3.0 License** – see [`LICENSE`](LICENSE) for details.
 
 ---
 
