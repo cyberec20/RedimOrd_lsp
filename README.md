@@ -86,6 +86,6 @@ Released under the **MIT License** – see [`LICENSE`](LICENSE) for details.
 
 ## 🙌 Credits
 
-* [Franklin Rodríguez](https://www.linkedin.com/in/franklinrodriguez/ "LinkedIn")
+* [Franklin Rodríguez](https://www.linkedin.com/in/franklinrodriguezacosta/ "LinkedIn")
 
 Enjoy faster, safer coordinate labelling! 🚀
